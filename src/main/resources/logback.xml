@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<configuration debug="true" scan="false" scanPeriod="1 seconds">
+    <!-- 用于指定logger上下文名称，默认为default -->
+    <contextName>logback</contextName>
+
+    <property name="LOF_PATTERN" value="%d{HH:mm:ss.SSS}[%thread][%-5level]%logger{0}: %msg%n"/>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${LOF_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- level属性：指定根logger的分配级别 -->
+    <root level="info">
+        <appender-ref ref="STDOUT"/>
+    </root>
+
+</configuration>
