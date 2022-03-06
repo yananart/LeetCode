@@ -13,4 +13,5 @@
 - [521. 最长特殊序列 Ⅰ](markdown/leetcode/0521.longest-uncommon-subsequence-i.md)
 - [564. 寻找最近的回文数](markdown/leetcode/0564.find-the-closest-palindrome.md)
 - [704. 二分查找](markdown/leetcode/0704.binary-search.md)
+- [2100. 适合打劫银行的日子](markdown/leetcode/2100.find-good-days-to-rob-the-bank.md)
 - [2104. 子数组范围和](markdown/leetcode/2104.sum-of-subarray-ranges.md)
