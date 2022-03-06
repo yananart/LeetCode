@@ -1,7 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val solution = Solution()
-    while (true) {
-        val line = readLine()!!
-        println(solution.nearestPalindromic(line))
-    }
+    // 执行solution
 }
