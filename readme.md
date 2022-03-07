@@ -11,6 +11,7 @@
 - [189. 轮转数组](markdown/leetcode/0189.rotate-array.md)
 - [258. 各位相加](markdown/leetcode/0258.add-digits.md)
 - [278. 第一个错误的版本](markdown/leetcode/0278.first-bad-version.md)
+- [504. 七进制数](markdown/leetcode/0504.base-7.md)
 - [521. 最长特殊序列 Ⅰ](markdown/leetcode/0521.longest-uncommon-subsequence-i.md)
 - [564. 寻找最近的回文数](markdown/leetcode/0564.find-the-closest-palindrome.md)
 - [704. 二分查找](markdown/leetcode/0704.binary-search.md)
