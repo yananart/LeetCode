@@ -22,5 +22,6 @@
 - [564. 寻找最近的回文数](markdown/leetcode/0564.find-the-closest-palindrome.md)
 - [704. 二分查找](markdown/leetcode/0704.binary-search.md)
 - [977. 有序数组的平方](markdown/leetcode/0977.squares-of-a-sorted-array.md)
+- [2055. 蜡烛之间的盘子](markdown/leetcode/2055.plates-between-candles.md)
 - [2100. 适合打劫银行的日子](markdown/leetcode/2100.find-good-days-to-rob-the-bank.md)
 - [2104. 子数组范围和](markdown/leetcode/2104.sum-of-subarray-ranges.md)
