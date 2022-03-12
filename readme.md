@@ -20,6 +20,7 @@
 - [278. 第一个错误的版本](markdown/leetcode/0278.first-bad-version.md)
 - [283. 移动零](markdown/leetcode/0283.move-zeroes.md)
 - [344. 反转字符串](markdown/leetcode/0344.reverse-string.md)
+- [393. UTF-8 编码验证](markdown/leetcode/0393.utf-8-validation.md)
 - [504. 七进制数](markdown/leetcode/0504.base-7.md)
 - [521. 最长特殊序列 Ⅰ](markdown/leetcode/0521.longest-uncommon-subsequence-i.md)
 - [557. 反转字符串中的单词 III](markdown/leetcode/0557.reverse-words-in-a-string-iii.md)
