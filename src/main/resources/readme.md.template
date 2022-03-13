@@ -2,8 +2,19 @@
 
 个人LeetCode练习的题解，`Kotlin`编程实现。
 
-## LeetCode本篇
+## 题库
 
 <#list problems as problem>
 - [${problem.title}](${problem.path})
+</#list >
+
+## 竞赛
+
+<#list contests as contest>
+### ${contest.title}
+
+<#list contest.problems as problem>
+- [${problem.title}](${problem.path})
+</#list >
+
 </#list >

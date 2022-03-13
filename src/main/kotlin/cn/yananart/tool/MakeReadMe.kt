@@ -26,6 +26,12 @@ data class Problem(val title: String, var path: String)
 
 
 /**
+ * 竞赛类
+ */
+data class Contest(val title: String, var problems: List<Problem>)
+
+
+/**
  * 获取markdown文档标题
  */
 fun getTitle(markdown: File): String {
@@ -51,6 +57,26 @@ fun getAllProblems(path: String): List<Problem> {
 }
 
 
+fun getAllContests(path: String): List<Contest> {
+    val fileList = FileUtil.ls(path)
+    fileList.sortBy { it.name }
+    val contests = ArrayList<Contest>()
+    for (file in fileList) {
+        if (file.isDirectory) {
+            val fileName = file.name
+            val title = if (fileName.contains("biweekly")) {
+                "第${fileName.split("-contest-")[1]}场双周赛"
+            } else {
+                "第${fileName.split("-contest-")[1]}场周赛"
+            }
+            val problems = getAllProblems(file.absolutePath)
+            contests.add(Contest(title, problems))
+        }
+    }
+    return contests
+}
+
+
 fun main() {
     log.info("开始生成readme.md ...")
 
@@ -58,17 +84,25 @@ fun main() {
     log.info("项目目录：${workPath}")
 
     log.info("读取文档目录，获取问题集...")
-    val problems = getAllProblems("${workPath}/markdown/leetcode")
+    val problems = getAllProblems("${workPath}/markdown/leetcode/problemset")
     log.info("读取文档目录，共解析获取[${problems.size}]个文档")
     problems.forEach {
         it.path = it.path.removePrefix(workPath + File.separator)
+    }
+
+    log.info("读取文档目录，获取竞赛集...")
+    val contests = getAllContests("${workPath}/markdown/leetcode/contest")
+    for (contest in contests) {
+        contest.problems.forEach {
+            it.path = it.path.removePrefix(workPath + File.separator)
+        }
     }
 
     log.info("读取模版文件、生成模版引擎...")
     val resource = ResourceUtil.getUtf8Reader("readme.md.template").readText()
     val engine = TemplateUtil.createEngine(TemplateConfig())
     val template = engine.getTemplate(resource)
-    val readme = template.render(Dict.create().set("problems", problems))
+    val readme = template.render(Dict.create().set("problems", problems).set("contests", contests))
     log.info("文件内容渲染完成")
 
     log.info("输出生成readme.md...")
