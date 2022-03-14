@@ -30,6 +30,7 @@
 - [567. 字符串的排列](markdown/leetcode/problemset/0567.permutation-in-string.md)
 - [589. N 叉树的前序遍历](markdown/leetcode/problemset/0589.n-ary-tree-preorder-traversal.md)
 - [590. N 叉树的后序遍历](markdown/leetcode/problemset/0590.n-ary-tree-postorder-traversal.md)
+- [599. 两个列表的最小索引总和](markdown/leetcode/problemset/0599.minimum-index-sum-of-two-lists.md)
 - [617. 合并二叉树](markdown/leetcode/problemset/0617.merge-two-binary-trees.md)
 - [695. 岛屿的最大面积](markdown/leetcode/problemset/0695.max-area-of-island.md)
 - [704. 二分查找](markdown/leetcode/problemset/0704.binary-search.md)
