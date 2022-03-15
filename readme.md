@@ -44,6 +44,7 @@
 - [977. 有序数组的平方](markdown/leetcode/problemset/0977.squares-of-a-sorted-array.md)
 - [994. 腐烂的橘子](markdown/leetcode/problemset/0994.rotting-oranges.md)
 - [1109. 航班预订统计](markdown/leetcode/problemset/1109.corporate-flight-bookings.md)
+- [2044. 统计按位或能得到最大值的子集数目](markdown/leetcode/problemset/2044.count-number-of-maximum-bitwise-or-subsets.md)
 - [2049. 统计最高分的节点数目](markdown/leetcode/problemset/2049.count-nodes-with-the-highest-score.md)
 - [2055. 蜡烛之间的盘子](markdown/leetcode/problemset/2055.plates-between-candles.md)
 - [2100. 适合打劫银行的日子](markdown/leetcode/problemset/2100.find-good-days-to-rob-the-bank.md)
