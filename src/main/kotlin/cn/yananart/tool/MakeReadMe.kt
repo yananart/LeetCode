@@ -28,7 +28,7 @@ data class Problem(val title: String, var path: String)
 /**
  * 竞赛类
  */
-data class Contest(val title: String, var problems: List<Problem>)
+data class Contest(val title: String, var path: String)
 
 
 /**
@@ -62,16 +62,14 @@ fun getAllContests(path: String): List<Contest> {
     fileList.sortBy { it.name }
     val contests = ArrayList<Contest>()
     for (file in fileList) {
-        if (file.isDirectory) {
-            val fileName = file.name
-            val title = if (fileName.contains("biweekly")) {
-                "第${fileName.split("-contest-")[1]}场双周赛"
-            } else {
-                "第${fileName.split("-contest-")[1]}场周赛"
-            }
-            val problems = getAllProblems(file.absolutePath)
-            contests.add(Contest(title, problems))
+        val fileName = file.name
+        val filePart = fileName.split(".")
+        val title = if (filePart[1].contains("biweekly")) {
+            "第${filePart[1].split("-contest-")[1]}场双周赛 [${filePart[0]}]"
+        } else {
+            "第${filePart[1].split("-contest-")[1]}场周赛 [${filePart[0]}]"
         }
+        contests.add(Contest(title, path + File.separator + file.name))
     }
     return contests
 }
@@ -92,10 +90,8 @@ fun main() {
 
     log.info("读取文档目录，获取竞赛集...")
     val contests = getAllContests("${workPath}/markdown/leetcode/contest")
-    for (contest in contests) {
-        contest.problems.forEach {
-            it.path = it.path.removePrefix(workPath + File.separator)
-        }
+    contests.forEach {
+        it.path = it.path.removePrefix(workPath + File.separator)
     }
 
     log.info("读取模版文件、生成模版引擎...")

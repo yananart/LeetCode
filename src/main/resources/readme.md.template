@@ -11,10 +11,5 @@
 ## 竞赛
 
 <#list contests as contest>
-### ${contest.title}
-
-<#list contest.problems as problem>
-- [${problem.title}](${problem.path})
-</#list >
-
+- [${contest.title}](${contest.path})
 </#list >

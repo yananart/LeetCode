@@ -48,13 +48,11 @@
 - [2055. 蜡烛之间的盘子](markdown/leetcode/problemset/2055.plates-between-candles.md)
 - [2100. 适合打劫银行的日子](markdown/leetcode/problemset/2100.find-good-days-to-rob-the-bank.md)
 - [2104. 子数组范围和](markdown/leetcode/problemset/2104.sum-of-subarray-ranges.md)
+- [2200. 找出数组中的所有 K 近邻下标](markdown/leetcode/problemset/2200.find-all-k-distant-indices-in-an-array.md)
+- [2201. 统计可以提取的工件](markdown/leetcode/problemset/2201.count-artifacts-that-can-be-extracted.md)
+- [2202. K 次操作后最大化顶端元素](markdown/leetcode/problemset/2202.maximize-the-topmost-element-after-k-moves.md)
+- [2203. _TODO_ 得到要求路径的最小带权子图](markdown/leetcode/problemset/2203.minimum-weighted-subgraph-with-the-required-paths.md)
 
 ## 竞赛
 
-### 第284场周赛
-
-- [找出数组中的所有 K 近邻下标](markdown/leetcode/contest/20220313-weekly-contest-284/1.find-all-k-distant-indices-in-an-array.md)
-- [统计可以提取的工件](markdown/leetcode/contest/20220313-weekly-contest-284/2.count-artifacts-that-can-be-extracted.md)
-- [K 次操作后最大化顶端元素](markdown/leetcode/contest/20220313-weekly-contest-284/3.maximize-the-topmost-element-after-k-moves.md)
-- [得到要求路径的最小带权子图 _TODO_](markdown/leetcode/contest/20220313-weekly-contest-284/4.minimum-weighted-subgraph-with-the-required-paths.md)
-
+- [第284场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)
