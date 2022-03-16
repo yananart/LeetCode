@@ -31,6 +31,7 @@
 - [283. 移动零](markdown/leetcode/problemset/0283.move-zeroes.md)
 - [344. 反转字符串](markdown/leetcode/problemset/0344.reverse-string.md)
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
+- [432. 全 O(1) 的数据结构](markdown/leetcode/problemset/0432.all-oone-data-structure.md)
 - [504. 七进制数](markdown/leetcode/problemset/0504.base-7.md)
 - [521. 最长特殊序列 Ⅰ](markdown/leetcode/problemset/0521.longest-uncommon-subsequence-i.md)
 - [542. 01 矩阵](markdown/leetcode/problemset/0542.01-matrix.md)
