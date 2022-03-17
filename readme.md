@@ -47,6 +47,7 @@
 - [617. 合并二叉树](markdown/leetcode/problemset/0617.merge-two-binary-trees.md)
 - [695. 岛屿的最大面积](markdown/leetcode/problemset/0695.max-area-of-island.md)
 - [704. 二分查找](markdown/leetcode/problemset/0704.binary-search.md)
+- [720. 词典中最长的单词](markdown/leetcode/problemset/0720.longest-word-in-dictionary.md)
 - [733. 图像渲染](markdown/leetcode/problemset/0733.flood-fill.md)
 - [784. 字母大小写全排列](markdown/leetcode/problemset/0784.letter-case-permutation.md)
 - [798. 得分最高的最小轮调](markdown/leetcode/problemset/0798.smallest-rotation-with-highest-score.md)
