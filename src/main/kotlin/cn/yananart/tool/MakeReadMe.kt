@@ -81,12 +81,25 @@ fun main() {
     val workPath = SystemPropsUtil.get("user.dir")
     log.info("项目目录：${workPath}")
 
+    val dic = Dict.create()
+
     log.info("读取文档目录，获取问题集...")
     val problems = getAllProblems("${workPath}/markdown/leetcode/problemset")
-    log.info("读取文档目录，共解析获取[${problems.size}]个文档")
+    log.info("读取[LeetCode本篇]文档目录，共解析获取[${problems.size}]个文档")
     problems.forEach {
         it.path = it.path.removePrefix(workPath + File.separator)
     }
+
+    dic.set("problems", problems)
+
+    log.info("读取[剑指Offer]文档目录，获取问题集...")
+    val offerProblems = getAllProblems("${workPath}/markdown/leetcode/offer")
+    log.info("读取文档目录，共解析获取[${problems.size}]个文档")
+    offerProblems.forEach {
+        it.path = it.path.removePrefix(workPath + File.separator)
+    }
+
+    dic.set("offers", offerProblems)
 
     log.info("读取文档目录，获取竞赛集...")
     val contests = getAllContests("${workPath}/markdown/leetcode/contest")
@@ -94,11 +107,13 @@ fun main() {
         it.path = it.path.removePrefix(workPath + File.separator)
     }
 
+    dic.set("contests", contests)
+
     log.info("读取模版文件、生成模版引擎...")
     val resource = ResourceUtil.getUtf8Reader("readme.md.template").readText()
     val engine = TemplateUtil.createEngine(TemplateConfig())
     val template = engine.getTemplate(resource)
-    val readme = template.render(Dict.create().set("problems", problems).set("contests", contests))
+    val readme = template.render(dic)
     log.info("文件内容渲染完成")
 
     log.info("输出生成readme.md...")

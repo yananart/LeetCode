@@ -67,6 +67,10 @@
 - [2202. K 次操作后最大化顶端元素](markdown/leetcode/problemset/2202.maximize-the-topmost-element-after-k-moves.md)
 - [2203. _TODO_ 得到要求路径的最小带权子图](markdown/leetcode/problemset/2203.minimum-weighted-subgraph-with-the-required-paths.md)
 
+## 剑指 Offer
+
+- [剑指 Offer 24. 反转链表](markdown/leetcode/offer/024.fan-zhuan-lian-biao-lcof.md)
+
 ## 竞赛
 
 - [第284场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)

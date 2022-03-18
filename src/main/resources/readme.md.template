@@ -8,6 +8,12 @@
 - [${problem.title}](${problem.path})
 </#list >
 
+## 剑指 Offer
+
+<#list offers as problem>
+- [${problem.title}](${problem.path})
+</#list >
+
 ## 竞赛
 
 <#list contests as contest>
