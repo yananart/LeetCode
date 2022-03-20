@@ -65,9 +65,9 @@ fun getAllContests(path: String): List<Contest> {
         val fileName = file.name
         val filePart = fileName.split(".")
         val title = if (filePart[1].contains("biweekly")) {
-            "第${filePart[1].split("-contest-")[1]}场双周赛 [${filePart[0]}]"
+            "第 ${filePart[1].split("-contest-")[1]} 场双周赛 [${filePart[0]}]"
         } else {
-            "第${filePart[1].split("-contest-")[1]}场周赛 [${filePart[0]}]"
+            "第 ${filePart[1].split("-contest-")[1]} 场周赛 [${filePart[0]}]"
         }
         contests.add(Contest(title, path + File.separator + file.name))
     }

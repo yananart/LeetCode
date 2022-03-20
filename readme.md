@@ -73,6 +73,10 @@
 - [2201. 统计可以提取的工件](markdown/leetcode/problemset/2201.count-artifacts-that-can-be-extracted.md)
 - [2202. K 次操作后最大化顶端元素](markdown/leetcode/problemset/2202.maximize-the-topmost-element-after-k-moves.md)
 - [2203. _TODO_ 得到要求路径的最小带权子图](markdown/leetcode/problemset/2203.minimum-weighted-subgraph-with-the-required-paths.md)
+- [2206. 将数组划分成相等数对](markdown/leetcode/problemset/2206.divide-array-into-equal-pairs.md)
+- [2207. 字符串中最多数目的子字符串](markdown/leetcode/problemset/2207.maximize-number-of-subsequences-in-a-string.md)
+- [2208. 将数组和减半的最少操作次数](markdown/leetcode/problemset/2208.minimum-operations-to-halve-array-sum.md)
+- [2209. 用地毯覆盖后的最少白色砖块](markdown/leetcode/problemset/2209.minimum-white-tiles-after-covering-with-carpets.md)
 
 ## 剑指 Offer
 
@@ -80,4 +84,5 @@
 
 ## 竞赛
 
-- [第284场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)
+- [第 284 场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)
+- [第 74 场双周赛 [2022-03-19]](markdown/leetcode/contest/2022-03-19.biweekly-contest-74.md)
