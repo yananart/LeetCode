@@ -61,7 +61,7 @@ fun getAllContests(path: String): List<Contest> {
     val fileList = FileUtil.ls(path)
     fileList.sortBy { it.name }
     val contests = ArrayList<Contest>()
-    for (file in fileList) {
+    for (file in fileList.reversed()) {
         val fileName = file.name
         val filePart = fileName.split(".")
         val title = if (filePart[1].contains("biweekly")) {

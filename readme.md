@@ -84,5 +84,5 @@
 
 ## 竞赛
 
-- [第 284 场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)
 - [第 74 场双周赛 [2022-03-19]](markdown/leetcode/contest/2022-03-19.biweekly-contest-74.md)
+- [第 284 场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)
