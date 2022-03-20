@@ -28,6 +28,8 @@
 - [116. 填充每个节点的下一个右侧节点指针](markdown/leetcode/problemset/0116.populating-next-right-pointers-in-each-node.md)
 - [120. 三角形最小路径和](markdown/leetcode/problemset/0120.triangle.md)
 - [136. 只出现一次的数字](markdown/leetcode/problemset/0136.single-number.md)
+- [153. 寻找旋转排序数组中的最小值](markdown/leetcode/problemset/0153.find-minimum-in-rotated-sorted-array.md)
+- [162. 寻找峰值](markdown/leetcode/problemset/0162.find-peak-element.md)
 - [167. 两数之和 II - 输入有序数组](markdown/leetcode/problemset/0167.two-sum-ii-input-array-is-sorted.md)
 - [175. 组合两个表](markdown/leetcode/problemset/0175.combine-two-tables.md)
 - [189. 轮转数组](markdown/leetcode/problemset/0189.rotate-array.md)
