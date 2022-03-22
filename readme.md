@@ -69,6 +69,7 @@
 - [977. 有序数组的平方](markdown/leetcode/problemset/0977.squares-of-a-sorted-array.md)
 - [994. 腐烂的橘子](markdown/leetcode/problemset/0994.rotting-oranges.md)
 - [1109. 航班预订统计](markdown/leetcode/problemset/1109.corporate-flight-bookings.md)
+- [2038. 如果相邻两个颜色均相同则删除当前颜色](markdown/leetcode/problemset/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.md)
 - [2039. 网络空闲的时刻](markdown/leetcode/problemset/2039.the-time-when-the-network-becomes-idle.md)
 - [2043. 简易银行系统](markdown/leetcode/problemset/2043.simple-bank-system.md)
 - [2044. 统计按位或能得到最大值的子集数目](markdown/leetcode/problemset/2044.count-number-of-maximum-bitwise-or-subsets.md)
