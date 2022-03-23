@@ -48,6 +48,7 @@
 - [344. 反转字符串](markdown/leetcode/problemset/0344.reverse-string.md)
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
 - [432. 全 O(1) 的数据结构](markdown/leetcode/problemset/0432.all-oone-data-structure.md)
+- [438. 找到字符串中所有字母异位词](markdown/leetcode/problemset/0438.find-all-anagrams-in-a-string.md)
 - [440. 字典序的第K小数字](markdown/leetcode/problemset/0440.k-th-smallest-in-lexicographical-order.md)
 - [504. 七进制数](markdown/leetcode/problemset/0504.base-7.md)
 - [521. 最长特殊序列 Ⅰ](markdown/leetcode/problemset/0521.longest-uncommon-subsequence-i.md)
