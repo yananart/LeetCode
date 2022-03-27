@@ -86,6 +86,7 @@
 - [994. 腐烂的橘子](markdown/leetcode/problemset/0994.rotting-oranges.md)
 - [1091. 二进制矩阵中的最短路径](markdown/leetcode/problemset/1091.shortest-path-in-binary-matrix.md)
 - [1109. 航班预订统计](markdown/leetcode/problemset/1109.corporate-flight-bookings.md)
+- [2028. 找出缺失的观测数据](markdown/leetcode/problemset/2028.find-missing-observations.md)
 - [2038. 如果相邻两个颜色均相同则删除当前颜色](markdown/leetcode/problemset/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.md)
 - [2039. 网络空闲的时刻](markdown/leetcode/problemset/2039.the-time-when-the-network-becomes-idle.md)
 - [2043. 简易银行系统](markdown/leetcode/problemset/2043.simple-bank-system.md)
