@@ -71,6 +71,7 @@
 - [653. 两数之和 IV - 输入 BST](markdown/leetcode/problemset/0653.two-sum-iv-input-is-a-bst.md)
 - [661. 图片平滑器](markdown/leetcode/problemset/0661.image-smoother.md)
 - [682. 棒球比赛](markdown/leetcode/problemset/0682.baseball-game.md)
+- [693. 交替位二进制数](markdown/leetcode/problemset/0693.binary-number-with-alternating-bits.md)
 - [695. 岛屿的最大面积](markdown/leetcode/problemset/0695.max-area-of-island.md)
 - [704. 二分查找](markdown/leetcode/problemset/0704.binary-search.md)
 - [713. 乘积小于K的子数组](markdown/leetcode/problemset/0713.subarray-product-less-than-k.md)
