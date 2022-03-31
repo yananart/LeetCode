@@ -86,6 +86,7 @@
 - [704. 二分查找](markdown/leetcode/problemset/0704.binary-search.md)
 - [713. 乘积小于K的子数组](markdown/leetcode/problemset/0713.subarray-product-less-than-k.md)
 - [720. 词典中最长的单词](markdown/leetcode/problemset/0720.longest-word-in-dictionary.md)
+- [728. 自除数](markdown/leetcode/problemset/0728.self-dividing-numbers.md)
 - [733. 图像渲染](markdown/leetcode/problemset/0733.flood-fill.md)
 - [784. 字母大小写全排列](markdown/leetcode/problemset/0784.letter-case-permutation.md)
 - [797. 所有可能的路径](markdown/leetcode/problemset/0797.all-paths-from-source-to-target.md)
