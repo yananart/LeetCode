@@ -96,6 +96,7 @@
 - [798. 得分最高的最小轮调](markdown/leetcode/problemset/0798.smallest-rotation-with-highest-score.md)
 - [844. 比较含退格的字符串](markdown/leetcode/problemset/0844.backspace-string-compare.md)
 - [876. 链表的中间结点](markdown/leetcode/problemset/0876.middle-of-the-linked-list.md)
+- [954. 二倍数对数组](markdown/leetcode/problemset/0954.array-of-doubled-pairs.md)
 - [977. 有序数组的平方](markdown/leetcode/problemset/0977.squares-of-a-sorted-array.md)
 - [986. 区间列表的交集](markdown/leetcode/problemset/0986.interval-list-intersections.md)
 - [994. 腐烂的橘子](markdown/leetcode/problemset/0994.rotting-oranges.md)
