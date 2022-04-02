@@ -67,6 +67,7 @@
 - [344. 反转字符串](markdown/leetcode/problemset/0344.reverse-string.md)
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
 - [413. 等差数列划分](markdown/leetcode/problemset/0413.arithmetic-slices.md)
+- [420. 强密码检验器](markdown/leetcode/problemset/0420.strong-password-checker.md)
 - [432. 全 O(1) 的数据结构](markdown/leetcode/problemset/0432.all-oone-data-structure.md)
 - [438. 找到字符串中所有字母异位词](markdown/leetcode/problemset/0438.find-all-anagrams-in-a-string.md)
 - [440. 字典序的第K小数字](markdown/leetcode/problemset/0440.k-th-smallest-in-lexicographical-order.md)
@@ -131,6 +132,10 @@
 - [2207. 字符串中最多数目的子字符串](markdown/leetcode/problemset/2207.maximize-number-of-subsequences-in-a-string.md)
 - [2208. 将数组和减半的最少操作次数](markdown/leetcode/problemset/2208.minimum-operations-to-halve-array-sum.md)
 - [2209. 用地毯覆盖后的最少白色砖块](markdown/leetcode/problemset/2209.minimum-white-tiles-after-covering-with-carpets.md)
+- [2220. 转换数字的最少位翻转次数](markdown/leetcode/problemset/2220.minimum-bit-flips-to-convert-number.md)
+- [2221. 数组的三角和](markdown/leetcode/problemset/2221.find-triangular-sum-of-an-array.md)
+- [2222. 选择建筑的方案数](markdown/leetcode/problemset/2222.number-of-ways-to-select-buildings.md)
+- [2223. 构造字符串的总得分和](markdown/leetcode/problemset/2223.sum-of-scores-of-built-strings.md)
 
 ## 剑指 Offer
 
@@ -138,5 +143,6 @@
 
 ## 竞赛
 
+- [第 75 场双周赛 [2022-04-02]](markdown/leetcode/contest/2022-04-02.biweekly-contest-75.md)
 - [第 74 场双周赛 [2022-03-19]](markdown/leetcode/contest/2022-03-19.biweekly-contest-74.md)
 - [第 284 场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)
