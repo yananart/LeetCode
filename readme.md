@@ -97,6 +97,7 @@
 - [720. 词典中最长的单词](markdown/leetcode/problemset/0720.longest-word-in-dictionary.md)
 - [728. 自除数](markdown/leetcode/problemset/0728.self-dividing-numbers.md)
 - [733. 图像渲染](markdown/leetcode/problemset/0733.flood-fill.md)
+- [744. 寻找比目标字母大的最小字母](markdown/leetcode/problemset/0744.find-smallest-letter-greater-than-target.md)
 - [784. 字母大小写全排列](markdown/leetcode/problemset/0784.letter-case-permutation.md)
 - [797. 所有可能的路径](markdown/leetcode/problemset/0797.all-paths-from-source-to-target.md)
 - [798. 得分最高的最小轮调](markdown/leetcode/problemset/0798.smallest-rotation-with-highest-score.md)
