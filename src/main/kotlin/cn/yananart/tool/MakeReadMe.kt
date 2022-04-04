@@ -49,9 +49,11 @@ fun getAllProblems(path: String): List<Problem> {
     val problems = ArrayList<Problem>()
     // 遍历文件，暂时不考虑效率问题
     for (file in fileList) {
-        val title = getTitle(file)
-        val filePath = path + File.separator + file.name
-        problems.add(Problem(title, filePath))
+        if (file.isFile) {
+            val title = getTitle(file)
+            val filePath = path + File.separator + file.name
+            problems.add(Problem(title, filePath))
+        }
     }
     return problems
 }

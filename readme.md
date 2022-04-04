@@ -66,6 +66,7 @@
 - [278. 第一个错误的版本](markdown/leetcode/problemset/0278.first-bad-version.md)
 - [283. 移动零](markdown/leetcode/problemset/0283.move-zeroes.md)
 - [344. 反转字符串](markdown/leetcode/problemset/0344.reverse-string.md)
+- [307. 区域和检索 - 数组可修改](markdown/leetcode/problemset/0370.range-sum-query-mutable.md)
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
 - [413. 等差数列划分](markdown/leetcode/problemset/0413.arithmetic-slices.md)
 - [420. 强密码检验器](markdown/leetcode/problemset/0420.strong-password-checker.md)
