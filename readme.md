@@ -69,6 +69,7 @@
 - [278. 第一个错误的版本](markdown/leetcode/problemset/0278.first-bad-version.md)
 - [283. 移动零](markdown/leetcode/problemset/0283.move-zeroes.md)
 - [300. 最长递增子序列](markdown/leetcode/problemset/0300.longest-increasing-subsequence.md)
+- [310. 最小高度树](markdown/leetcode/problemset/0310.minimum-height-trees.md)
 - [344. 反转字符串](markdown/leetcode/problemset/0344.reverse-string.md)
 - [307. 区域和检索 - 数组可修改](markdown/leetcode/problemset/0370.range-sum-query-mutable.md)
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
