@@ -114,6 +114,7 @@
 - [744. 寻找比目标字母大的最小字母](markdown/leetcode/problemset/0744.find-smallest-letter-greater-than-target.md)
 - [762. 二进制表示中质数个计算置位](markdown/leetcode/problemset/0762.prime-number-of-set-bits-in-binary-representation.md)
 - [784. 字母大小写全排列](markdown/leetcode/problemset/0784.letter-case-permutation.md)
+- [796. 旋转字符串](markdown/leetcode/problemset/0796.rotate-string.md)
 - [797. 所有可能的路径](markdown/leetcode/problemset/0797.all-paths-from-source-to-target.md)
 - [798. 得分最高的最小轮调](markdown/leetcode/problemset/0798.smallest-rotation-with-highest-score.md)
 - [844. 比较含退格的字符串](markdown/leetcode/problemset/0844.backspace-string-compare.md)
