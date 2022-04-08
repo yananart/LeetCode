@@ -82,6 +82,7 @@
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
 - [413. 等差数列划分](markdown/leetcode/problemset/0413.arithmetic-slices.md)
 - [420. 强密码检验器](markdown/leetcode/problemset/0420.strong-password-checker.md)
+- [429. N 叉树的层序遍历](markdown/leetcode/problemset/0429.n-ary-tree-level-order-traversal.md)
 - [432. 全 O(1) 的数据结构](markdown/leetcode/problemset/0432.all-oone-data-structure.md)
 - [438. 找到字符串中所有字母异位词](markdown/leetcode/problemset/0438.find-all-anagrams-in-a-string.md)
 - [440. 字典序的第K小数字](markdown/leetcode/problemset/0440.k-th-smallest-in-lexicographical-order.md)
