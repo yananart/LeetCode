@@ -123,6 +123,7 @@
 - [796. 旋转字符串](markdown/leetcode/problemset/0796.rotate-string.md)
 - [797. 所有可能的路径](markdown/leetcode/problemset/0797.all-paths-from-source-to-target.md)
 - [798. 得分最高的最小轮调](markdown/leetcode/problemset/0798.smallest-rotation-with-highest-score.md)
+- [804. 唯一摩尔斯密码词](markdown/leetcode/problemset/0804.unique-morse-code-words.md)
 - [844. 比较含退格的字符串](markdown/leetcode/problemset/0844.backspace-string-compare.md)
 - [876. 链表的中间结点](markdown/leetcode/problemset/0876.middle-of-the-linked-list.md)
 - [954. 二倍数对数组](markdown/leetcode/problemset/0954.array-of-doubled-pairs.md)
