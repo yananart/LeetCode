@@ -77,6 +77,7 @@
 - [322. 零钱兑换](markdown/leetcode/problemset/0322.coin-change.md)
 - [343. 整数拆分](markdown/leetcode/problemset/0343.integer-break.md)
 - [344. 反转字符串](markdown/leetcode/problemset/0344.reverse-string.md)
+- [357. 统计各位数字都不同的数字个数](markdown/leetcode/problemset/0357.count-numbers-with-unique-digits.md)
 - [307. 区域和检索 - 数组可修改](markdown/leetcode/problemset/0370.range-sum-query-mutable.md)
 - [384. 打乱数组](markdown/leetcode/problemset/0384.shuffle-an-array.md)
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
