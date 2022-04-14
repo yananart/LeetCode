@@ -142,6 +142,7 @@
 - [1581. 进店却未进行过交易的顾客](markdown/leetcode/problemset/1581.customer-who-visited-but-did-not-make-any-transactions.md)
 - [1606. 找到处理最多请求的服务器](markdown/leetcode/problemset/1606.find-servers-that-handled-most-number-of-requests.md)
 - [1667. 修复表中的名字](markdown/leetcode/problemset/1667.fix-names-in-a-table.md)
+- [1672. 最富有客户的资产总量](markdown/leetcode/problemset/1672.richest-customer-wealth.md)
 - [1757. 可回收且低脂的产品](markdown/leetcode/problemset/1757.recyclable-and-low-fat-products.md)
 - [1795. 每个产品在不同商店的价格](markdown/leetcode/problemset/1795.rearrange-products-table.md)
 - [1873. 计算特殊奖金](markdown/leetcode/problemset/1873.calculate-special-bonus.md)
