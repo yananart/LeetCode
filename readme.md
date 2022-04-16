@@ -89,6 +89,7 @@
 - [432. 全 O(1) 的数据结构](markdown/leetcode/problemset/0432.all-oone-data-structure.md)
 - [438. 找到字符串中所有字母异位词](markdown/leetcode/problemset/0438.find-all-anagrams-in-a-string.md)
 - [440. 字典序的第K小数字](markdown/leetcode/problemset/0440.k-th-smallest-in-lexicographical-order.md)
+- [479. 最大回文数乘积](markdown/leetcode/problemset/0479.largest-palindrome-product.md)
 - [504. 七进制数](markdown/leetcode/problemset/0504.base-7.md)
 - [521. 最长特殊序列 Ⅰ](markdown/leetcode/problemset/0521.longest-uncommon-subsequence-i.md)
 - [542. 01 矩阵](markdown/leetcode/problemset/0542.01-matrix.md)
