@@ -172,6 +172,10 @@
 - [2221. 数组的三角和](markdown/leetcode/problemset/2221.find-triangular-sum-of-an-array.md)
 - [2222. 选择建筑的方案数](markdown/leetcode/problemset/2222.number-of-ways-to-select-buildings.md)
 - [2223. 构造字符串的总得分和](markdown/leetcode/problemset/2223.sum-of-scores-of-built-strings.md)
+- [2239. 找到最接近 0 的数字](markdown/leetcode/problemset/2239.find-closest-number-to-zero.md)
+- [2240. 买钢笔和铅笔的方案数](markdown/leetcode/problemset/2240.number-of-ways-to-buy-pens-and-pencils.md)
+- [2241. 设计一个 ATM 机器](markdown/leetcode/problemset/2241.design-an-atm-machine.md)
+- [2242. 节点序列的最大得分](markdown/leetcode/problemset/2242.maximum-score-of-a-node-sequence.md)
 
 ## 剑指 Offer
 
@@ -179,6 +183,7 @@
 
 ## 竞赛
 
+- [第 76 场双周赛 [2022-04-17]](markdown/leetcode/contest/2022-04-17.biweekly-contest-76.md)
 - [第 75 场双周赛 [2022-04-02]](markdown/leetcode/contest/2022-04-02.biweekly-contest-75.md)
 - [第 74 场双周赛 [2022-03-19]](markdown/leetcode/contest/2022-03-19.biweekly-contest-74.md)
 - [第 284 场周赛 [2022-03-13]](markdown/leetcode/contest/2022-03-13.weekly-contest-284.md)
