@@ -82,6 +82,7 @@
 - [380. O(1) 时间插入、删除和获取随机元素](markdown/leetcode/problemset/0380.insert-delete-getrandom-o1.md)
 - [384. 打乱数组](markdown/leetcode/problemset/0384.shuffle-an-array.md)
 - [385. 迷你语法分析器](markdown/leetcode/problemset/0385.mini-parser.md)
+- [386. 字典序排数](markdown/leetcode/problemset/0386.lexicographical-numbers.md)
 - [393. UTF-8 编码验证](markdown/leetcode/problemset/0393.utf-8-validation.md)
 - [413. 等差数列划分](markdown/leetcode/problemset/0413.arithmetic-slices.md)
 - [420. 强密码检验器](markdown/leetcode/problemset/0420.strong-password-checker.md)
