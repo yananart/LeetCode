@@ -136,6 +136,7 @@
 - [806. 写字符串需要的行数](markdown/leetcode/problemset/0806.number-of-lines-to-write-string.md)
 - [819. 最常见的单词](markdown/leetcode/problemset/0819.most-common-word.md)
 - [821. 字符的最短距离](markdown/leetcode/problemset/0821.shortest-distance-to-a-character.md)
+- [824. 山羊拉丁文](markdown/leetcode/problemset/0824.goat-latin.md)
 - [844. 比较含退格的字符串](markdown/leetcode/problemset/0844.backspace-string-compare.md)
 - [876. 链表的中间结点](markdown/leetcode/problemset/0876.middle-of-the-linked-list.md)
 - [954. 二倍数对数组](markdown/leetcode/problemset/0954.array-of-doubled-pairs.md)
